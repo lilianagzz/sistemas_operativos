@@ -1,2 +1,2 @@
 # sistemas_operativos
-sistemas oeprativos
+sistemas operativos
